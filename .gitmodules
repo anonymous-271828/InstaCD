@@ -1,0 +1,3 @@
+[submodule "submodules/InstaCD-benchmarks"]
+	path = submodules/InstaCD-benchmarks
+	url = git@github-anon:anonymous-271828/InstaCD-benchmarks.git
